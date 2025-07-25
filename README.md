@@ -1,5 +1,8 @@
 ## main
 
+사용할 수 있는 언어
+C C++ C#
+
 <!--
 **saseolim/saseolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
