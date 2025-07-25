@@ -2,7 +2,7 @@
 
 사용할 수 있는 언어
 
-<img src="[https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)" alt="C">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C">
 
 <!--
 **saseolim/saseolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
