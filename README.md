@@ -12,16 +12,18 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" style="width:50px; height:50px;" w alt="C++"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" style="width:50px; height:50px;" w alt="C++"> &nbsp;
 <br><br>
-배우고 싶은 언어 및 기술<br>
+기초 배우고 있는 언어 및 기술<br>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" style="width:50px; height:50px;"> &nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" style="width:50px; height:50px;"> &nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" style="width:50px; height:50px;"> &nbsp;
+<br><br>
+배우고 싶은 언어 및 기술<br>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" style="width:50px; height:50px;"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" style="width:50px; height:50px;"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" style="width:50px; height:50px;"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" style="width:50px; height:50px;"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" style="width:50px; height:50px;"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" style="width:50px; height:50px;"> &nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" style="width:50px; height:50px;"> &nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" style="width:50px; height:50px;"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" style="width:50px; height:50px;"> &nbsp;
 
 <!--
