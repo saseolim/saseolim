@@ -13,11 +13,11 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" style="width:50px; height:50px;" w alt="C++"> &nbsp;
 <br><br>
 미숙한 언어 및 기술<br>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" style="width:50px; height:50px;"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" style="width:50px; height:50px;"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" style="width:50px; height:50px;"> &nbsp;
 <br><br>
 기초 배우고 있는 언어 및 기술<br>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" style="width:50px; height:50px;"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" style="width:50px; height:50px;"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" style="width:50px; height:50px;"> &nbsp;
 <br><br>
